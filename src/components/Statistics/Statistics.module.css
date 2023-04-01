@@ -1,0 +1,11 @@
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  color: #000000;
+}
+.item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
